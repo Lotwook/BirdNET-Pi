@@ -7,7 +7,6 @@ pytz
 tzlocal
 pandas
 seaborn
-streamlit==1.19.0
 plotly
 apprise==1.2.1
 paho-mqtt
